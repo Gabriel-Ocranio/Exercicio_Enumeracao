@@ -1,0 +1,16 @@
+C:\temp\Enumeracao\bin\Debug\net5.0\Enumeracao.exe
+C:\temp\Enumeracao\bin\Debug\net5.0\Enumeracao.deps.json
+C:\temp\Enumeracao\bin\Debug\net5.0\Enumeracao.runtimeconfig.json
+C:\temp\Enumeracao\bin\Debug\net5.0\Enumeracao.runtimeconfig.dev.json
+C:\temp\Enumeracao\bin\Debug\net5.0\Enumeracao.dll
+C:\temp\Enumeracao\bin\Debug\net5.0\ref\Enumeracao.dll
+C:\temp\Enumeracao\bin\Debug\net5.0\Enumeracao.pdb
+C:\temp\Enumeracao\obj\Debug\net5.0\Enumeracao.csproj.AssemblyReference.cache
+C:\temp\Enumeracao\obj\Debug\net5.0\Enumeracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Enumeracao\obj\Debug\net5.0\Enumeracao.AssemblyInfoInputs.cache
+C:\temp\Enumeracao\obj\Debug\net5.0\Enumeracao.AssemblyInfo.cs
+C:\temp\Enumeracao\obj\Debug\net5.0\Enumeracao.csproj.CoreCompileInputs.cache
+C:\temp\Enumeracao\obj\Debug\net5.0\Enumeracao.dll
+C:\temp\Enumeracao\obj\Debug\net5.0\ref\Enumeracao.dll
+C:\temp\Enumeracao\obj\Debug\net5.0\Enumeracao.pdb
+C:\temp\Enumeracao\obj\Debug\net5.0\Enumeracao.genruntimeconfig.cache
